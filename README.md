@@ -14,7 +14,7 @@
 
 
 
-#                                                               Fighting Fire with Data 
+#                                                             Fighting Fire with Data 
 
 
 <!-- TABLE OF CONTENTS -->
@@ -44,9 +44,9 @@
 
 ## About the Project
 
-The Texas Parks and Wildlife's Fire Management Division has recently received an additional $10 million in state funding for wildfire prevention. The department has hired our firm to help make an informed decision about where to best invest their funds.
+The Texas Outdoors and Natue Department has recently received an additional $10 million in state funding for wildfire prevention. The department has hired our firm to help make an informed decision about where to best invest their funds.
 
-The goal of the project is to provide a consistent, comparable set of scientific results to be used as a foundation for wildfire mitigation and prevention planning across Texas. Results of the assessment can be used to help prioritize areas in the state where tactical analyses, community interaction and education, or mitigation treatments might be necessary to reduce risk from wildfires. -tamu
+Our goal is to provide a data overview and ..... to support  consistent, comparable set of scientific results to be used as a foundation for wildfire mitigation and prevention planning across Texas. Results of the assessment can be used to help prioritize areas in the state where tactical analyses, community interaction and education, or mitigation treatments might be necessary to reduce risk from wildfires. -tamu
 
 ## Considerations
 - Education and Marketing: Which audience is best suited to receive wildfire prevention education?
@@ -129,7 +129,7 @@ Flask Api Heroku PostgreSQL xxxxxxxxxxxxx
 
 
 ### Team
-Dillon Carter ---|--- Felecia Helms ---|--- [Darrell Horich](https://github.com/D11eleven) ---|--- Taylor Lyons
+[Dillon Carter](https://github.com/rb25s13) ---|--- [Felecia Helms](https://github.com/fhelms8) ---|--- [Darrell Horich](https://github.com/D11eleven) ---|--- [Taylor Lyons](https://github.com/taylorsyde)
   
   <p align="right">(<a href="#top">back to top</a>)</p>
 
